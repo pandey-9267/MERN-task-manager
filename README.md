@@ -83,7 +83,7 @@ node server.js
 
 Server runs on:
 
-http://localhost:5000
+http://localhost:5000/api/tasks
 3. Frontend setup
 cd frontend
 npm install
