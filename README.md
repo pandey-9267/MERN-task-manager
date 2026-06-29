@@ -3,7 +3,9 @@ Project Description
 
 live link : https://mern-task-manager-abhishek.vercel.app/
 
-<img width="1919" height="865" alt="Screenshot 2026-04-20 132738" src="https://github.com/user-attachments/assets/41e6795d-0000-42cd-bee3-1b5de3531a2b" />
+Preview:
+<img width="842" height="807" alt="image" src="https://github.com/user-attachments/assets/a3391c7a-0898-46cb-b986-86f48e49c2f0" />
+
 
 Task Manager is a simple full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 It allows users to create, view, update, delete, and filter tasks based on their completion status.
